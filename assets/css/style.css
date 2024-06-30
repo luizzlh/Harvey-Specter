@@ -460,9 +460,10 @@ footer {
 
    footer{
       margin-bottom: 0;
+      width: 100vw;
       height: 52vh;
       display: flex;
-      align-items: flex-start;
+      align-items: center;
       justify-content: center;
    }
 
